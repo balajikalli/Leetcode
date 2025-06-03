@@ -12,6 +12,5 @@ class Solution(object):
         return issorted
     
 
-print("hello")
         
 
